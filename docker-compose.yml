@@ -12,7 +12,10 @@ services:
       - proxy
     labels:
       - traefik.enable=true
-      - traefik.frontend.rule=Host:www.edata.africa,edata.africa
+      - traefik.frontend.rule=Host:www.edata.africa,edata.africa,www.informatics.africa,informatics.africa
+      - "traefik.frontend.redirect.regex=^https?://(?:www.)?(?:informatics|edata).africa/?(.*)"
+      - "traefik.frontend.redirect.replacement=https://www.edata.africa/$${1}"
+      - "traefik.frontend.redirect.permanent=true"
       - traefik.docker.network=proxy
       - traefik.port = 80
 
