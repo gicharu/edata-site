@@ -1,0 +1,21 @@
+version: '3'
+
+services:
+  nginx:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    restart: unless-stopped
+    security_opt:
+      - no-new-privileges:true
+    networks:
+      - proxy
+    labels:
+      - traefik.enable=true
+      - traefik.frontend.rule=Host:www.edata.africa,edata.africa
+      - traefik.docker.network=proxy
+      - traefik.port = 80
+
+networks:
+  proxy:
+    external: true

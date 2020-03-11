@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Informatics Africa",
+    "name": "edata.africa",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -34,7 +34,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Informatics.Africa",
+        "title": "edata.africa",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -504,7 +504,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<br>ABOUT INFORMATICS.AFRICA",
+          "title": "<br>ABOUT edata.africa",
           "text": "<p>Propertymode is the culmination of over 20 years experience in the real estate technology sector starting in Brisbane, Australia in 1996.</p><p>Propertymode has now developed hundreds of websites for individual real estate offices and franchise groups across Australia and some internationally.</p><p>The systems included a sophisticated CRM, PDF print and magazine generation system and email alerts plus more. This system eventually developed into a full CRM ERP workflow and was combined with an early competitor to Google maps - Maps IQ services.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>"
         },
@@ -556,7 +556,7 @@
     },
     "about-whoweare.html": {
       "settings": {
-        "title": "About | Who We Are | Informatics.Africa",
+        "title": "About | Who We Are | edata.africa",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -701,7 +701,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<h1>Who We Are</h1><p>Informatics Africa took over from Propertymode.com that is the culmination of over 21 years’ experience in the real estate technology sector, starting in Brisbane, Australia in 1996.  Founded by Shane Dale first established Surroundpix a real estate media company specialising in digital photography, virtual tours, floorplans and high shot photography.</p><p><br></p><p>Soon after gaining clients the need for real estate websites became apparent and from then onwards, Propertymode was the brand used for all real estate technology systems. Propertymode has developed hundreds of websites for individual real estate offices and franchise groups across all states in Australia and some internationally.</p><p><br></p><p>The systems included a sophisticated CRM, pdf print and magazine generation systems and email alerts and more. This system eventually developed into a full CRM ERP workflow and was combined with an early competitor to google maps  Map IQ services until eventually being purchased in 2006 by a joint venture between Microsoft and PBL Media in Sydney, Australia to produce the www.myhome.com.ay national property portal. Press reports estimate a budget over $20million AU was invested in the business.</p><p><br></p><p>Shane Dale repurchased the assets from the joint venture in 2008 after PBL media was itself bought out by a private equity company CVC equity and their business plans changed. Myhome was then transformed into an industry owned portal company with support from many franchise groups and independent offices and was publishing 5 regional property newspapers with property based content. The portal was handlings thousands of offices across Australia all sending listings into the system and delivering well over 300,000 UBs per month.</p><p><br></p><p>A national property data valuation system was created in conjunction with Residex called myhomedata for real estate agents and consumers, and also market facts version which was aimed at mortgage brokers. Myhome was then sold in 2010 to the Real Estate Institute of Victoria and www.realestateview.com.au and merged into their national strategy. The Residex data products were purchased by Residex and are operating still.</p><p><br></p><p>Propertymode has re-coded all systems to support global environments, especially developing countries and is now actively working with selected partners to implement the specialist technologies available. The Propertymode team is now spread across 5 countries and is ready to bring the consulting expertise and experience of 16 years plus world class software platforms to create local solutions wherever they are required.</p><p><br></p><p>Since 2015, Propertymode had brought its know-how to Africa, starting in Rwanda one of the most advance digital infrastructure in property on the African continent, and successfully introduced a Real Estate Portal, a tax collection platform (TaxPlus) and a Valuation Platfom in partnership with the Institute of Real Property Valuers in Rwanda (IRPV).</p><p><br></p>"
+          "text": "<h1>Who We Are</h1><p>edata.africa took over from Propertymode.com that is the culmination of over 21 years’ experience in the real estate technology sector, starting in Brisbane, Australia in 1996.  Founded by Shane Dale first established Surroundpix a real estate media company specialising in digital photography, virtual tours, floorplans and high shot photography.</p><p><br></p><p>Soon after gaining clients the need for real estate websites became apparent and from then onwards, Propertymode was the brand used for all real estate technology systems. Propertymode has developed hundreds of websites for individual real estate offices and franchise groups across all states in Australia and some internationally.</p><p><br></p><p>The systems included a sophisticated CRM, pdf print and magazine generation systems and email alerts and more. This system eventually developed into a full CRM ERP workflow and was combined with an early competitor to google maps  Map IQ services until eventually being purchased in 2006 by a joint venture between Microsoft and PBL Media in Sydney, Australia to produce the www.myhome.com.ay national property portal. Press reports estimate a budget over $20million AU was invested in the business.</p><p><br></p><p>Shane Dale repurchased the assets from the joint venture in 2008 after PBL media was itself bought out by a private equity company CVC equity and their business plans changed. Myhome was then transformed into an industry owned portal company with support from many franchise groups and independent offices and was publishing 5 regional property newspapers with property based content. The portal was handlings thousands of offices across Australia all sending listings into the system and delivering well over 300,000 UBs per month.</p><p><br></p><p>A national property data valuation system was created in conjunction with Residex called myhomedata for real estate agents and consumers, and also market facts version which was aimed at mortgage brokers. Myhome was then sold in 2010 to the Real Estate Institute of Victoria and www.realestateview.com.au and merged into their national strategy. The Residex data products were purchased by Residex and are operating still.</p><p><br></p><p>Propertymode has re-coded all systems to support global environments, especially developing countries and is now actively working with selected partners to implement the specialist technologies available. The Propertymode team is now spread across 5 countries and is ready to bring the consulting expertise and experience of 16 years plus world class software platforms to create local solutions wherever they are required.</p><p><br></p><p>Since 2015, Propertymode had brought its know-how to Africa, starting in Rwanda one of the most advance digital infrastructure in property on the African continent, and successfully introduced a Real Estate Portal, a tax collection platform (TaxPlus) and a Valuation Platfom in partnership with the Institute of Real Property Valuers in Rwanda (IRPV).</p><p><br></p>"
         },
         {
           "_tags": [
@@ -745,7 +745,7 @@
     },
     "about-missionstatement.html": {
       "settings": {
-        "title": "About | Mission Statement | Informatics.Africa",
+        "title": "About | Mission Statement | edata.africa",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -890,7 +890,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<h1>Mission Statement</h1><p>1.1\tThe Vision and Core Mission of Informatics.Africa is to serve as the Catalyst and Enabler for informed investment decision making by local and foreign investors who are interested in investing in African Economies, with emphasis on the African Built Environment.&nbsp;</p><p><br></p><p>1.2\tIt shall accomplish this core mission through building and operating the Pan-African Informatics Platform (“Info.Africa Platform”) on which current data and information shall be readily available on key sectors of national economies; specialized laws and regulations; specialized institutions and service providers shall be available; and where specialized training services can be found.</p><p><br></p>"
+          "text": "<h1>Mission Statement</h1><p>1.1\tThe Vision and Core Mission of edata.africa is to serve as the Catalyst and Enabler for informed investment decision making by local and foreign investors who are interested in investing in African Economies, with emphasis on the African Built Environment.&nbsp;</p><p><br></p><p>1.2\tIt shall accomplish this core mission through building and operating the Pan-African Informatics Platform (“Info.Africa Platform”) on which current data and information shall be readily available on key sectors of national economies; specialized laws and regulations; specialized institutions and service providers shall be available; and where specialized training services can be found.</p><p><br></p>"
         },
         {
           "_tags": [
@@ -934,7 +934,7 @@
     },
     "about-benefits.html": {
       "settings": {
-        "title": "About | Benefits | Informatics.Africa",
+        "title": "About | Benefits | edata.africa",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1123,7 +1123,7 @@
     },
     "training-asset.html": {
       "settings": {
-        "title": "Training | Asset Valuers and Engineers | Informatics.Africa",
+        "title": "Training | Asset Valuers and Engineers | edata.africa",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1312,7 +1312,7 @@
     },
     "training-bankloan.html": {
       "settings": {
-        "title": "Training | Bank Loan Officers | Informatics.Africa",
+        "title": "Training | Bank Loan Officers | edata.africa",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1501,7 +1501,7 @@
     },
     "pss-propertyregistration.html": {
       "settings": {
-        "title": "Property Settlement Services | Centralized Property Registration | Informatics.Africa",
+        "title": "Property Settlement Services | Centralized Property Registration | edata.africa",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1695,7 +1695,7 @@
     },
     "pss-rentalregistration.html": {
       "settings": {
-        "title": "Property Settlement Services | Rental Contract Registration | Informatics.Africa",
+        "title": "Property Settlement Services | Rental Contract Registration | edata.africa",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1889,7 +1889,7 @@
     },
     "pp-reas.html": {
       "settings": {
-        "title": "Property Portal | Real Estate Agent System  | Informatics.Africa",
+        "title": "Property Portal | Real Estate Agent System  | edata.africa",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -2078,7 +2078,7 @@
     },
     "propertyvaluationsystem.html": {
       "settings": {
-        "title": "Property Valuation System  | Informatics.Africa",
+        "title": "Property Valuation System  | edata.africa",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -2395,7 +2395,7 @@
     },
     "taxationsoftware.html": {
       "settings": {
-        "title": "Taxation Software  | Informatics.Africa",
+        "title": "Taxation Software  | edata.africa",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -2589,7 +2589,7 @@
     },
     "about.html": {
       "settings": {
-        "title": "About Us | Informatics.Africa",
+        "title": "About Us | edata.africa",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -2795,10 +2795,10 @@
           },
           "title1": "Who We Are",
           "subtitle1": "",
-          "caption1": "Informatics Africa took over from Propertymode.com that is the culmination of over 21 years’ experience in the real estate technology sector, starting in Brisbane, Australia in 1996.&nbsp;",
+          "caption1": "edata.africa took over from Propertymode.com that is the culmination of over 21 years’ experience in the real estate technology sector, starting in Brisbane, Australia in 1996.&nbsp;",
           "title2": "Mission Statement",
           "subtitle2": "",
-          "caption2": "The Vision and Core Mission of Informatics.Africa is to serve as the Catalyst and Enabler for informed investment decision making by local and foreign investors who are interested in&nbsp;<br> ",
+          "caption2": "The Vision and Core Mission of edata.africa is to serve as the Catalyst and Enabler for informed investment decision making by local and foreign investors who are interested in&nbsp;<br> ",
           "title3": "Benefits",
           "subtitle3": "",
           "caption3": "Country markets that shall adopt, implement and utilize the Info.Africa Platform Tools shall enjoy tremendous benefits,<br><br>",
@@ -2865,7 +2865,7 @@
     },
     "trainingandcert.html": {
       "settings": {
-        "title": "Training and Certification  | Informatics.Africa",
+        "title": "Training and Certification  | edata.africa",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -3113,7 +3113,7 @@
     },
     "propertysettlement.html": {
       "settings": {
-        "title": "Property Settlement Services  | Informatics.Africa",
+        "title": "Property Settlement Services  | edata.africa",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -3391,7 +3391,7 @@
     },
     "propertymarketinformations.html": {
       "settings": {
-        "title": "Property Market Informations  | Informatics.Africa",
+        "title": "Property Market Informations  | edata.africa",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -3585,7 +3585,7 @@
     },
     "propertyportal.html": {
       "settings": {
-        "title": "Property Portal  | Informatics.Africa",
+        "title": "Property Portal  | edata.africa",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
