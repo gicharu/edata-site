@@ -1,24 +1,29 @@
 version: '3'
 
-services:
-  nginx:
-    build:
-      context: .
-      dockerfile: ./Dockerfile
-    restart: unless-stopped
-    security_opt:
-      - no-new-privileges:true
-    networks:
-      - proxy
-    labels:
-      - traefik.enable=true
-      - traefik.frontend.rule=Host:www.edata.africa,edata.africa,www.informatics.africa,informatics.africa
-      - "traefik.frontend.redirect.regex=^https?://(?:www.)?(?:informatics|edata).africa/?(.*)"
-      - "traefik.frontend.redirect.replacement=https://www.edata.africa/$${1}"
-      - "traefik.frontend.redirect.permanent=true"
-      - traefik.docker.network=proxy
-      - traefik.port = 80
-
 networks:
-  proxy:
+  web:
     external: true
+  internal:
+    external: false
+services:
+  edata-site:
+    container_name: edata-site
+    image: jkaninda/nginx-php-fpm:8.2
+    restart: unless-stopped
+    networks:
+      - internal
+      - web
+
+    volumes:
+      - ./src:/var/www/html
+      # - ./conf/nginx/nginx-site.conf:/var/www/html/conf/nginx/nginx-site.conf
+    ports:
+      - 80
+    labels:
+       - "traefik.enable=true"
+       - "traefik.http.routers.edata-site.rule=Host(`www.edata.africa`, `edata.africa`)"
+       - "traefik.http.routers.edata-site.tls.certresolver=lets-encrypt"
+       - "traefik.port=80"
+       - "traefik.docker.network=web"
+
+
